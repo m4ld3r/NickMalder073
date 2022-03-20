@@ -1,4 +1,3 @@
-
  <h1 align = "center">
     <br>  HELLO TO ALL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -19,7 +18,7 @@
 About Me:
 I am beginning C# developer from Russia
    
-- :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning sp .Net Core, also I'm writing my telegram-bot.
+- :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning Asp.Net Core, also I'm writing my telegram-bot.
 
 - :zap: In my free time, I solve problems on CleenCodeGame, hackerrank, leetcode and read tech articles.
 
@@ -41,4 +40,5 @@ I am beginning C# developer from Russia
  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain-wordmark.svg" title="Firefox" alt="Firefox" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>&nbsp;
  
- 
+ ### :writing_hand: Мои статейки для русскоязычных зашедших:
+ https://habr.com/ru/users/NickMalder073/posts/
