@@ -9,13 +9,13 @@
 </div>
 <h3>
 About Me:
-I am beginner in C# development from Russia
+I am beginner in .Net developer from Russia
    
 - :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning Asp.Net Core, also I'm writing my telegram-bot and developing my mail server
 
-- :zap: In my free time, I solve problems on CleenCodeGame, Hackerrank, Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on CleenCodeGame, Hackerrank, Leetcode and read SF.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/") or in Telegram by the nickname @NickMalder073
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/") or in Telegram by the nickname @https://t.me/N1ckM4ld3r
 </h3>
 
  
