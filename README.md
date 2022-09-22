@@ -1,9 +1,6 @@
  <h1 align = "center">
     <br>  HELLO ALL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif"/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nikita-baturin-3a2b7a203/">
