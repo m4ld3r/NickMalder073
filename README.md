@@ -15,7 +15,7 @@ I am beginner in .Net developer from Russia
 
 - :zap: In my free time, I solve problems on CleenCodeGame, Hackerrank, Leetcode and read SF.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/") or in Telegram by the nickname @https://t.me/N1ckM4ld3r
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/") or in Telegram by the nickname @N1ckM4ld3r
 </h3>
 
  
