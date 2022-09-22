@@ -6,16 +6,14 @@
   <a href="https://www.linkedin.com/in/nikita-baturin-3a2b7a203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/NickMalder073">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
   <br><img src="https://komarev.com/ghpvc/?username=NickMalder073"&style=flat-square&color=blue" alt=""/>
 </div>
 <h3>
 About Me:
 I am beginner in C# development from Russia
    
-- :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning Asp.Net Core, also I'm writing my telegram-bot.
+- :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning Asp.Net Core, also I'm writing my telegram-bot and developing my mail server
 
 - :zap: In my free time, I solve problems on CleenCodeGame, Hackerrank, Leetcode and read tech articles.
 
