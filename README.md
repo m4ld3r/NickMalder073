@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/nikita-baturin-3a2b7a203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-  <br><img src="https://komarev.com/ghpvc/?username=NickMalder073"&style=flat-square&color=blue" alt=""/>
 </div>
 <h3>
 About Me:
