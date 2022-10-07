@@ -2,20 +2,21 @@
     <br>  HELLO ALL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nikita-baturin-3a2b7a203/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <h3>
 About Me:
-I am beginner in .Net developer from Russia
+</h3>
+
+- I am beginner in .Net developer from Russia
    
 - :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning Asp.Net Core, also I'm writing my telegram-bot and developing my mail server
 
 - :zap: In my free time, I solve problems on CleenCodeGame, Hackerrank, Leetcode and read SF.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/") or in Telegram by the nickname @N1ckM4ld3r
+<h3>:mailbox:How to reach me: </h3>
+
+[https://github.com/rdimascio/icons/blob/master/icons/telegram.svg](https://t.me/N1ckM4ld3r)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/") or 
 </h3>
 
  
