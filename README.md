@@ -6,11 +6,11 @@
 About Me:
 </h3>
 
-- I am beginner in .Net developer from Russia
+- I am beginner in .Net & C++ developer from Russia
    
 - :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning Asp.Net Core, also I'm writing my telegram-bot and developing my mail server
 
-- :zap: In my free time, I solve problems on CleenCodeGame, Hackerrank, Leetcode and read SF.
+- :zap: In my free time, I solve problems on CleenCodeGame, Hackerrank, Leetcode, https://programming-challenges.jeremyjaydan.dev/ and read SF.
 
 <h3>:mailbox:How to reach me: </h3>
 
