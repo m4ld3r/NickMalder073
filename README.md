@@ -14,9 +14,7 @@ About Me:
 
 <h3>:mailbox:How to reach me: </h3>
 
-[https://github.com/rdimascio/icons/blob/master/icons/telegram.svg](https://t.me/N1ckM4ld3r)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/") or 
+[![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/")  or  <a href="https://t.me/N1ckM4ld3r" Target="_blank"><Img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" Width="25" Height="25"> </a>
 </h3>
 
  
