@@ -6,7 +6,7 @@
 About Me:
 </h3>
 
-- I am beginner in .Net & C++ developer from Russia
+- I am beginner in .Net & C++ developer from Krasnodar, Russia. Now try in Rust
    
 - :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning Asp.Net Core, also I'm writing my telegram-bot and developing my mail server
 
