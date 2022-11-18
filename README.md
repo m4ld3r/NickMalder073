@@ -6,15 +6,15 @@
 About Me:
 </h3>
 
-- I am beginner in .Net & C++ developer from Krasnodar, Russia. Now try in Rust
-   
+- My name is Baturin Nilita and I'm beginner in .Net & C++ developer from Krasnodar, Russia
+
 - :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning Asp.Net Core, also I'm writing my telegram-bot and developing my mail server
 
 - :zap: In my free time, I solve problems on CleenCodeGame, Hackerrank, Leetcode, https://programming-challenges.jeremyjaydan.dev/ and read SF.
 
 <h3>:mailbox: How to reach me: </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/")  or  <a href="https://t.me/N1ckM4ld3r" Target="_blank"><Img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" Width="25" Height="25"> </a>
+[![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/")  or  <a href="https://t.me/m4ld3r" Target="_blank"><Img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" Width="25" Height="25"> </a>
 </h3>
 
  
