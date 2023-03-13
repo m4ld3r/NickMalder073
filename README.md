@@ -6,7 +6,7 @@
 About Me:
 </h3>
 
-- My name is Baturin Nilita and I'm beginner in .Net & C++ developer from Krasnodar, Russia
+- My name is Baturin Nilita and I'm beginner DevOPS from Krasnodar, Russia
 
 - :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning Asp.Net Core, also I'm writing my telegram-bot and developing my mail server
 
@@ -31,5 +31,5 @@ About Me:
  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain-wordmark.svg" title="Firefox" alt="Firefox" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>&nbsp;
   
- ### :writing_hand: Мои статейки для русскоязычных зашедших:
+ ### :writing_hand: Мои статейки для русскоязычных зашедших :)
  https://habr.com/ru/users/NickMalder073/posts/
