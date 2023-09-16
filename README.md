@@ -8,7 +8,7 @@ About Me:
 
 - My name is Baturin Nilita and I'm beginner DevOPS from Krasnodar, Russia
 
-- :telescope: I’m studing in KubSU University on Faculty of Mathematics and learning DevOps and DevSecOps
+- :telescope: I’m studing in KubSU University on faculty of Physics and learning DevOps and DevSecOps
 
 - :zap: In my free time, I solve problems on CleenCodeGame, Hackerrank, Leetcode, https://programming-challenges.jeremyjaydan.dev/ and read SF.
 
@@ -28,4 +28,5 @@ About Me:
   
  ### :writing_hand: Мои статейки для русскоязычных зашедших :)
  https://habr.com/ru/users/NickMalder073/posts/
+ 
  https://t.me/adm1n5n0t35
