@@ -6,9 +6,9 @@
 About Me:
 </h3>
 
-- My name is Baturin Nilita and I'm beginner DevOPS from Krasnodar, Russia
+- My name is Baturin Nikita and I'm beginner DevOPS from Krasnodar, Russia.
 
-- :telescope: I’m studing in KubSU University on faculty of Physics and learning DevOps and DevSecOps
+- :telescope: I’m studing in KubSU University on faculty of Physics, also I learning DevOps and DevSecOps.
 
 - :zap: In my free time, I solve problems on CleenCodeGame, Hackerrank, Leetcode, https://programming-challenges.jeremyjaydan.dev/ and read SF.
 
@@ -26,7 +26,10 @@ About Me:
  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" alt="Raspberrypi" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   
- ### :writing_hand: Мои статейки для русскоязычных зашедших :)
+ ### :writing_hand: Мои статьи для русскоязычных зашедших :)
+ 
  https://habr.com/ru/users/NickMalder073/posts/
+
+### :writing_hand: Мой блог о работе:
  
  https://t.me/adm1n5n0t35
