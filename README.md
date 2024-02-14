@@ -18,18 +18,24 @@ About Me:
 </h3>
 
  
-### :hammer_and_wrench: Languages and Tools :
- <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" alt="Raspberrypi" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+### :hammer_and_wrench: Tools:
+ <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Tools" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="Tools" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Tools" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Tools" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Tools" width="50" height="50"/>&nbsp;
+### :hammer_and_wrench: Languages:
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python3" alt="Languages" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="" alt="Languages" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-plain.svg" title="" alt="Languages" width="50" height="50"/>&nbsp;
+### :hammer_and_wrench: Hobby:
+ <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" alt="Hobby" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="" alt="Hobby" width="50" height="50"/>&nbsp;
   
  ### :writing_hand: Мои статьи для русскоязычных зашедших :)
  
- https://habr.com/ru/users/NickMalder073/posts/
+ https://habr.com/ru/users/n_malder/posts/
 
-### :writing_hand: Мой блог о работе:
+### :writing_hand: Мой блог о работе и не только:
  
  https://t.me/adm1n5n0t35
