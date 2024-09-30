@@ -1,4 +1,5 @@
- <h1 align = "center">
+![](https://komarev.com/ghpvc/?username=n-malder&color=blue&style=flat&)
+<h1 align = "center">
     <br>  HELLO ALL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -14,7 +15,7 @@ About Me:
 
 <h3>:mailbox: How to reach me: </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/")  or  <a href="https://t.me/n_malder" Target="_blank"><Img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" Width="25" Height="25"> </a>
+<a href="https://t.me/n_malder" Target="_blank"><Img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" Width="25" Height="25"> </a>   <a href="mailto:Banzai.Malder@protonmail.ch" Target="_blank"><Img src="https://github.com/rdimascio/icons/blob/master/icons/mailgun.svg" Width="25" Height="25"> </a>   [![Linkedin Badge](https://img.shields.io/badge/-Baturin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-baturin-3a2b7a203/") 
 </h3>
 
  
